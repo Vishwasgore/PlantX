@@ -1,0 +1,20 @@
+# Virtual environment
+venv/
+
+# Dataset (too large)
+dataset/
+PlantVillage/
+
+# Trained models
+models/*.h5
+
+# Results & outputs
+results/
+__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
