@@ -1,3 +1,4 @@
+Demo Link - https://youtu.be/U2OBgwzetOU
 🌱 PlantX – AI-Based Plant Disease Detection System
 
 PlantX is an AI-powered plant disease detection system that helps farmers and agricultural researchers identify plant diseases from leaf images and receive actionable treatment guidance.
